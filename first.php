@@ -10,7 +10,8 @@
 	{
 		return 'wala';
 	}
-
+	
+	echo "Okay sya"
 
 ?>
 
