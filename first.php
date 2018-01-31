@@ -6,6 +6,11 @@
 	echo "maraming commands";
 	echo "Okay sya"
 
+	if(true)
+	{
+		return 'wala';
+	}
+
 
 ?>
 
